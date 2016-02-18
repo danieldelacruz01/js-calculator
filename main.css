@@ -1,0 +1,61 @@
+body {
+  margin-left: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+button {
+  width: 65px;
+  height: 65px;
+  margin-top: 5px;
+  border-radius: 20px;
+  font-size: 2em;
+  color: white;
+  border: none;
+}
+
+input {
+  width: 270px;
+  height: 40px;
+  text-align: right;
+  font-family: orbitron;
+  font-size: 2em;
+  letter-spacing: 0.1em;
+  margin-top: 20px;
+  border-radius: 15px;
+  background-color: #C8E6C9;
+}
+
+.calc {
+  background-color: #546E7A;
+  border-radius: 30px;
+  width: 305px;
+  height: 440px;
+  margin: auto;
+}
+
+.screen {
+  margin-left: 15px;
+  margin-top: 20px;
+}
+
+.keypad {
+  margin-left: 15px;
+  margin-top: 5px;
+}
+
+#ac,
+#ce,
+#calculate {
+  background-color: #E91E63;
+}
+
+#operator {
+  background-color: #2196F3;
+}
+
+.input {
+  background-color: #37474F;
+}
